@@ -1,23 +1,23 @@
-# node / npm
+# Node / build
 node_modules/
 dist/
 build/
+coverage/
 
-# env secrets
+# Environment
 .env
 .env.local
-.env.*.local
 
-# logs
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+# Logs
+*.log
+*.tmp
 
-# OS files
+# System / IDE
 .DS_Store
 Thumbs.db
-
-# editor
 .vscode/
 .idea/
-*.suo
+
+# Backups
+~$*
+*.bak
