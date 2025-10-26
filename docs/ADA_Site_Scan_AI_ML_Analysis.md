@@ -33,3 +33,13 @@ ADA Site Scan evaluates websites for ADA and WCAG 2.1 compliance using an AI/ML 
     {"rule": "Low contrast text", "severity": "Minor"}
   ]
 }
+
+Future Enhancements
+
+Sitemap multi-page crawl
+
+Live contrast prediction
+
+Accessibility overlay suggestions
+
+© 2025 Karimulla Khaji
