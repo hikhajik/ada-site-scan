@@ -1,0 +1,7 @@
+{
+  "site": "https://example.com",
+  "critical": 2,
+  "major": 4,
+  "minor": 3,
+  "summary": "Site has multiple accessibility issues. Review alt text and color contrast."
+}
