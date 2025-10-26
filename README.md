@@ -1,4 +1,4 @@
-# ADA Site Scan
+# ADA Site  Scan
 
 **Description**
 ADA Site Scan is an accessibility auditing tool that analyzes websites for ADA Title III and Section 508 compliance, produces a report (TXT/PDF), and provides voice announcements. The repository contains frontend and backend logic, prompts used for Readdy AI integration, and analysis documentation.
